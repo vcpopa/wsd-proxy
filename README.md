@@ -6,17 +6,17 @@ Before proceeding, ensure you have the following installed:
 - **Make**: Ensure Make utility is installed on your system (usually included in Unix-like systems or available via package managers).
 
 ## Setup Instructions
-Clone the Repository:
+1. Clone the Repository:
 ```bash
 git clone https://github.com/vcpopa/wsd-proxy
 ```
 
-Navigate to the Project Root Directory:
+2. Navigate to the Project Root Directory:
 ```bash
 cd <project_directory>
 ```
 
-Extract **wsd-proxy-test.zip** and place the tar file  (**wsd-proxy-test.tar**) inside the **proxy-server** folder.
+3. Extract **wsd-proxy-test.zip** and place the tar file  (**wsd-proxy-test.tar**) inside the **proxy-server** folder.
 
 ## Makefile Parameters Overview
 
