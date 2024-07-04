@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyz
+*.pyzw
+*.pyw
+*.pyo
+*.pyc
+*.pyd
+*.pyi
+*.pyxbld
+*.pyproj
+*.pydevproject
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Text files
+*.txt
+!requirements.txt
+!testing_requirements.txt
+
+# Virtual environments
+venv/
